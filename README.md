@@ -1,10 +1,11 @@
 # LinkedIn Clone
 
+### For the preview :- [LinkedIn-Clone](https://linkedin-clone-93c72.web.app/)
+
 ### This clone of LinkedIn contains the following features
 
 - Authentication
-- Create posts
-- Responsive design
+- Create & Send posts
 
 ### This clone is created by using the following technology stack
 
